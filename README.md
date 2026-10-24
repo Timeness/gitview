@@ -4,3 +4,4 @@
 **When connected to GitHub, you can create a fork or independent copy, manage dependency update pull requests and perform repository or file actions.**
 
 ----
+**Built with ❤️ using Nuxt**
